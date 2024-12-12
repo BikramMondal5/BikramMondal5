@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Bikram Mondal
 
-<img align="center" src="python.png" alt="python" width="300" />
+<p align="center">
+  <img src="python.png" alt="python image" width="300">
+</p>
 
 <h3 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h3>
 
