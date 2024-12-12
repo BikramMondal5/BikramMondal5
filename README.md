@@ -2,8 +2,7 @@
 
 <h1 align="center">I'm Bikram Mondal</h1>
 
-![python](python.png)
-
+<img src="python.png" alt="python" width="300" />
 
 <h3 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h3>
 
