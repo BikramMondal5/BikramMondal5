@@ -6,11 +6,12 @@
 
 <h3 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h3>
 
-- 📝 I regularly write articles on [Quora](Quora)
+- 📝 My journey into coding began with a curiosity to create, automate, and solve problems. I am constantly exploring new technologies to refine my skills and contribute to meaningful projects.I aim to enhance my skills in full-stack development and explore advanced AI and machine learning concepts.
+Feel free to connect with me or explore my repositories to learn more about my work!
 
 - 📫 How to reach me **codesnippets45@gmail.com**
 
-- ⚡ Fun fact **Developers never turn off their desktop**
+- ⚡ Fun fact **I trained the algorithm to learn from my previous errors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
