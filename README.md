@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Bikram Mondal
+# Hey there 👋 I'm Bikram Mondal
 
 <p align="center">
   <img src="python.png" alt="python image" width="300">
@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h3>
 
-- 📝 My journey into coding began with a curiosity to create, automate, and solve problems. I am constantly exploring new technologies to refine my skills and contribute to meaningful projects.I aim to enhance my skills in full-stack development and explore advanced AI and machine learning concepts.
+- 📝 My journey into coding began with a curiosity to create, automate, and solve problems. I am constantly exploring new technologies to refine my skills and contribute to meaningful projects. I aim to enhance my skills in full-stack development and explore advanced AI and machine learning concepts.
 Feel free to connect with me or explore my repositories to learn more about my work!
 
 - 📫 How to reach me **codesnippets45@gmail.com**
