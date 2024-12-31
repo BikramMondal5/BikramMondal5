@@ -11,7 +11,7 @@ Feel free to connect with me or explore my repositories to learn more about my w
 
 - 📫 How to reach me **codesnippets45@gmail.com**
 
-- ⚡ Fun fact **I trained the algorithm to learn from my previous errors.**
+- ⚡ Fun fact **I trained with an algorithm that enables me to learn from my past errors.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
