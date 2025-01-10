@@ -107,4 +107,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BikramMondal5&theme=radical&" alt="BikramMondal5" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BikramMondal5&label=Profile%20views&color=0e75b6&style=flat" alt="BikramMondal5" /></p>
+
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" /></p>
