@@ -6,6 +6,7 @@
 
 <h3 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h3>
 
+- 🍁 I am constantly exploring new technologies to refine my skills and contribute to meaningful projects.
 - 🌟 My journey into coding began with a curiosity to create, automate, and solve problems. I am constantly exploring new technologies to refine my skills and contribute to meaningful projects.
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
