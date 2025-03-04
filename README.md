@@ -27,7 +27,7 @@
 </p>
 
 # 💻 My Tech stack and language
-[![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,kalilinux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="BikramMondal5" /></p>
 
