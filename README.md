@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I trained with an algorithm to learn and adapt from my previous error.**
 
-# Connect with me:
+# 🌐 Connect with me:
 <p align="left">
 <a href="https://codepen.io/bikram-mondal-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bikram-mondal-the-flexboxer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bikramisstrange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bikramisstrange" height="30" width="40" /></a>
@@ -29,7 +29,7 @@
 # 💻 My Tech stack and language
 [![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
 
-# My Github stats
+# 🍁 My Github stats
 
 ![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
