@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I trained with an algorithm to learn and adapt from my previous error.**
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <p align="left">
 <a href="https://codepen.io/bikram-mondal-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bikram-mondal-the-flexboxer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bikramisstrange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bikramisstrange" height="30" width="40" /></a>
