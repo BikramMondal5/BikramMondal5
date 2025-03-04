@@ -30,12 +30,18 @@
 [![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
 
 # My Github stats
+
+![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en" alt="BikramMondal5" />
+</p>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramMondal5&theme=radical)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="BikramMondal5" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en" alt="BikramMondal5" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BikramMondal5&theme=radical&" alt="BikramMondal5" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BikramMondal5&theme=radical&" alt="BikramMondal5" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BikramMondal5&label=Profile%20views&color=0e75b6&style=flat" alt="BikramMondal5" /></p>
-
-<p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" /></p>
+<p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
+</p>
