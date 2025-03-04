@@ -4,7 +4,7 @@
   <img src="python.png" alt="python image" width="300">
 </p>
 
-<h3 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h3>
+<h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
 - 🍁 I love to explore new technologies to refine my skills and contribute to meaningful projects.
 - 🌟 My journey into coding began with a curiosity to create, automate, and solve problems.
@@ -26,10 +26,10 @@
 <a href="https://www.quora.com/profile/Bikram-Mondal-199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="quora" height="30" width="40" /></a>
 </p>
 
-# 💻 My Tech stack and language
+# 💻 My Tech stack and language:
 [![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
 
-# 🍁 My Github stats
+# 🍁 My Github stats:
 
 ![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
