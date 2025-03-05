@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **codesnippets45@gmail.com**
 
-- ⚡ Fun fact **I trained with an algorithm to learn and adapt from my previous error.**
+- ⚡ Fun fact **Whether it is life or code, always learn from my previous error!**
 
 # 🌐 Connect with me:
 <p align="left">
