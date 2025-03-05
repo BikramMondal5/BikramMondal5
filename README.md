@@ -12,9 +12,10 @@
 - ✍️ I love to write articles on Quora and write short fictional stories.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
 
-- 📫 How to reach me **codesnippets45@gmail.com**
+- 📫 **How to reach me**
+  `codesnippets45@gmail.com`
 
-- ⚡ Fun fact **Whether it is life or code, always learn from my previous error!**
+- ⚡ **Fun fact:** *Whether it is life or code, always learn from my previous error!*
 
 # 🌐 Connect with me:
 <p align="left">
