@@ -28,7 +28,7 @@
 </p>
 
 # 💻 My Tech stack and language:
-[![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,numpy,pandas,postman,python,vscode&perline=12)](https://skillicons.dev)
 
 # 🍁 My Github stats:
 
