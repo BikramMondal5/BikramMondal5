@@ -41,8 +41,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="BikramMondal5" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BikramMondal5&theme=radical&" alt="BikramMondal5" />
-</p>
-
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
 </p>
