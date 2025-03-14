@@ -7,7 +7,7 @@
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
 - 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
-- 🌟 My journey into coding began with a curiosity to create, automate, and solve problems.
+- 🌟 My journey into coding began with a curiosity to create, automate, and solve real life problems.
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
 - ✍️ I love to write articles on Quora and write short fictional stories.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
@@ -28,7 +28,7 @@
 </p>
 
 # 💻 My Tech stack and language:
-[![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,react,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
 
 # 🍁 My Github stats:
 
