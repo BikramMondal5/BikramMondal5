@@ -6,7 +6,7 @@
 
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
-- 🍁 I love to explore new technologies to refine my skills and contribute to meaningful projects.
+- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
 - 🌟 My journey into coding began with a curiosity to create, automate, and solve problems.
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
 - ✍️ I love to write articles on Quora and write short fictional stories.
