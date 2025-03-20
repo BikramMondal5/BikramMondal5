@@ -1,4 +1,6 @@
-# Hey there! 👋 I'm Bikram Mondal
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=%F0%9F%91%8B+Hey there! 👋;I'm+Bikram+Mondal" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="python.png" alt="python image" width="300">
