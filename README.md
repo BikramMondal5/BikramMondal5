@@ -19,7 +19,7 @@
 
 - ⚡ **Fun fact:** *Whether it is life or code, always learn from my previous error!*
 
-# 🌐 Connect with me:
+# 🌐 Connect With Me:
 <p align="left">
 <a href="https://codepen.io/bikram-mondal-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bikram-mondal-the-flexboxer" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/bikramisstrange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bikramisstrange" height="30" width="40" /></a>
@@ -29,10 +29,10 @@
 <a href="https://www.quora.com/profile/Bikram-Mondal-199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="quora" height="30" width="40" /></a>
 </p>
 
-# 💻 My Tech stack and language:
+# 💻 My Tech Stack and Language:
 [![My Skills](https://skillicons.dev/icons?i=bash,css,flask,git,github,html,js,linux,nodejs,postman,python,vscode&perline=12)](https://skillicons.dev)
 
-# 🍁 My Github stats:
+# 🍁 My Github Stats:
 
 ![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
@@ -45,3 +45,10 @@
 
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
 </p>
+
+# 🐍 My Contribution Snake:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BikramMondal5/BikramMondal5/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BikramMondal5/BikramMondal5/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/BikramMondal5/BikramMondal5/output/github-contribution-grid-snake.svg" />
+</picture>
