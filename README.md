@@ -17,7 +17,7 @@
 - 📫 **How to reach me:**
   `codesnippets45@gmail.com`
 
-- ⚡ **Fun fact:** *Whether it is life or code, always learn from my previous error!*
+- ⚡ **Fun fact:** *Whether it is life or code, always learn from my error!*
 
 # 🌐 Connect With Me:
 <p align="left">
