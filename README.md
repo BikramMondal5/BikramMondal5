@@ -30,7 +30,7 @@
 </p>
 
 # 💻 My Tech Stack and Language:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,bootstrap,codepen,css,flask,gcp,git,github,html,js,kali,linux,nodejs,opencv,postman,python,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,bash,bootstrap,codepen,css,flask,gcp,git,github,html,js,kali,linux,nodejs,opencv,postman,python,sklearn,vscode&perline=12)](https://skillicons.dev)
 
 # 🍁 My Github Stats:
 
