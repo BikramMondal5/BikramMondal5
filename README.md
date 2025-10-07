@@ -30,7 +30,7 @@
 </p>
 
 # 💻 My Tech Stack and Language:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bash,bootstrap,c,codepen,css,figma,flask,flutter,gcp,git,github,html,js,kali,linux,nextjs,nodejs,opencv,postman,python,r,react,sklearn,threejs,typescript,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,bash,bootstrap,c,codepen,css,figma,flask,flutter,gcp,git,github,html,js,kali,linux,nextjs,nodejs,opencv,postman,python,r,react,sklearn,supabase,threejs,typescript,vscode&perline=12)](https://skillicons.dev)
 
 # 🍁 My Github Stats:
 
