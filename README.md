@@ -15,7 +15,7 @@
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
 - 📫 **How to reach me:**
   `codesnippets45@gmail.com`
-- 📃 Download my resume from here [Resume.pdf](https://github.com/user-attachments/files/22311491/Resume.pdf)
+- 📃 You can download my resume from here [Resume.pdf](https://github.com/BikramMondal5/BikramMondal5/raw/main/Bikram-Mondal-resume.pdf)
 - 👉 You can check my portfolio here [portfolio](https://bikram-mondal-3d-portfolio.vercel.app/) 
 - ⚡ **Fun fact:** *Whether it is life or code, always learn from my error!*
 
