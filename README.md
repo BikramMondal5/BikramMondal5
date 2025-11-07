@@ -13,8 +13,7 @@
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
 - ✍️ I love to write articles on Quora and crafting short fictional stories.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
-- 📫 **How to reach me:**
-  `codesnippets45@gmail.com`
+- 📫 **How to reach me:** [My-Linktree](https://linktr.ee/BikramMondal5)
 - 📃 You can download my resume from here [Resume.pdf](https://github.com/BikramMondal5/BikramMondal5/raw/main/Bikram-Mondal-resume.pdf)
 - 👉 You can check my portfolio here [portfolio](https://bikram-mondal-3d-portfolio.vercel.app/) 
 - ⚡ **Fun fact:** *Whether it is life or code, always learn from my error!*
