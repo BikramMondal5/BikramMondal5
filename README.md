@@ -8,10 +8,10 @@
 
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
-- 🍁 I love to explore new technologies to refine my skills and contribute to interactive projects.
+- 🍁 I love to explore new technologies to refine my skills and contribute to open source projects.
 - 🌟 My journey into coding began with a curiosity to create, automate, and solve real life problems.
 - 🚀 I aim to enhance my skills in full-stack web development and explore advanced AI and machine learning concepts.
-- ✍️ I love to write articles on Quora and crafting short fictional stories.
+- ✍️ I love to write articles, technical blog post and crafting short fictional stories.
 - 🌐 Feel free to connect with me or explore my repositories to learn more about my work!
 - 📫 **How to reach me:** [My-Linktree](https://linktr.ee/BikramMondal5)
 - 📃 **You can download my resume from here:** [Resume.pdf](https://github.com/BikramMondal5/BikramMondal5/raw/main/Bikram-Mondal-resume.pdf)
