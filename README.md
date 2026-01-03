@@ -26,6 +26,7 @@
 <a href="https://kaggle.com/___bikram37___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="___bikram37___" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/bikram-mondal-a2bb18343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bikram Mondal" height="30" width="40" /></a>
 <a href="https://www.quora.com/profile/Bikram-Mondal-199" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="quora" height="30" width="40" /></a>
+<a href="https://x.com/CSnippets62428" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/twitter.svg" alt="x.com" height="30" width="40" /></a>  
 </p>
 
 # 💻 My Tech Stack and Language:
