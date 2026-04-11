@@ -36,12 +36,15 @@
 
 ![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en" alt="BikramMondal5" />
-</p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BikramMondal5&theme=dark&hide_border=false)<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramMondal5&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BikramMondal5&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="BikramMondal5" /></p>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramMondal5&layout=compact&theme=highcontrast" />
 
+## 🏆 GitHub Trophies
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
 </p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
