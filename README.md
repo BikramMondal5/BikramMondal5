@@ -20,8 +20,6 @@
   <a href="https://x.com/CSnippets62428" target="_blank">
   <img src="https://img.shields.io/badge/CSnippets62428-f59e0b?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
 </a>
-  <a href="https://kaggle.com/your-kaggle-id" target="_blank"><img src="https://img.shields.io/badge/Kaggle-your--kaggle--id-20BEFF?style=for-the-badge&logoColor=white" alt="Kaggle" /></a>
-  
 </p>
 
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
