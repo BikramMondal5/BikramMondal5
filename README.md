@@ -54,3 +54,10 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:67E8F9,50:22D3EE,100:2563EB&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&fontAlignY=65" alt="Footer"/>
+</p>
+<p align="center">
+  <i>"Let's connect and make some noise that matters!"</i>
+</p>
