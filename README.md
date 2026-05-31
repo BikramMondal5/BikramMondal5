@@ -6,6 +6,24 @@
   <img src="python.png" alt="python image" width="300">
 </p>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=BikramMondal5&label=PROFILE+VIEWS&style=for-the-badge&color=0284c7" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BikramMondal5?style=for-the-badge&logo=github&label=FOLLOWERS&color=2563eb" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/BikramMondal5?style=for-the-badge&logo=github&label=TOTAL+STARS&color=f59e0b" alt="Stars" />
+</p>
+
+<p align="center">
+   <a href="https://bikram-dot-dev.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bikram%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
+  <a href="https://x.com/CSnippets62428" target="_blank">
+  <img src="https://img.shields.io/badge/CSnippets62428-f59e0b?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
+</a>
+  <a href="https://kaggle.com/your-kaggle-id" target="_blank"><img src="https://img.shields.io/badge/Kaggle-your--kaggle--id-20BEFF?style=for-the-badge&logoColor=white" alt="Kaggle" /></a>
+  
+</p>
+
 <h1 align="center">A passionate developer from India! 🧑‍💻🇮🇳</h1>
 
 - 🍁 I love to explore new technologies to refine my skills and contribute to open source projects.
