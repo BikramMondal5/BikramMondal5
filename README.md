@@ -46,5 +46,11 @@
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
 </p>
 
+## 🕹️ Pac-Man Contribution Graph
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/BikramMondal5/BikramMondal5/output/pacman-contribution-graph-dark.svg" alt="Pac-Man Contribution Graph">
+</p>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
