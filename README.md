@@ -16,7 +16,7 @@
    <a href="https://bikram-dot-dev.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-EA4335?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bikram%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
+  <a href="https://www.linkedin.com/in/bikram-mondal-a2bb18343" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Bikram%20Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>  
   <a href="https://x.com/CSnippets62428" target="_blank">
   <img src="https://img.shields.io/badge/CSnippets62428-f59e0b?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
 </a>
