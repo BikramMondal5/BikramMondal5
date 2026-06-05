@@ -36,17 +36,15 @@
 
 # 🌐 Connect With Me:
 <p align="left">
-<a href="https://codepen.io/bikram-mondal-the-flexboxer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="bikram-mondal-the-flexboxer" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bikramisstrange" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bikramisstrange" height="30" width="40" /></a>
-<a href="https://instagram.com/code_snippets5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikram_mondal37" height="30" width="40" /></a>
-<a href="https://kaggle.com/BikramMondal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="___bikram37___" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bikram-mondal-a2bb18343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bikram Mondal" height="30" width="40" /></a>
-<a href="https://www.quora.com" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/quora/quora-icon.svg" alt="quora" height="30" width="40" /></a>
-<a href="https://x.com/CSnippets62428" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/twitter.svg" alt="x.com" height="30" width="40" /></a>  
+<a href="https://instagram.com/code_snippets5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikram_mondal37" height="40" width="40" /></a>
+<a href="https://kaggle.com/BikramMondal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="___bikram37___" height="40" width="40" /></a>
+<a href="https://leetcode.com/u/bikrammondal5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="x.com" height="40" width="40" /></a> 
+<a href="https://www.linkedin.com/in/bikram-mondal-a2bb18343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bikram Mondal" height="40" width="40" /></a>
+<a href="https://x.com/CSnippets62428" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/twitter.svg" alt="x.com" height="40" width="40" /></a>  
 </p>
 
 # 💻 My Tech Stack and Language:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,androidstudio,aws,bash,bootstrap,c,codepen,css,docker,express,figma,flask,flutter,gcp,git,github,html,js,kali,linux,mongodb,nextjs,nodejs,opencv,postman,python,r,react,sklearn,supabase,tailwind,threejs,typescript,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,docker,express,figma,flask,gcp,git,github,html,js,kali,linux,mongodb,nextjs,nodejs,opencv,postman,python,r,react,sklearn,supabase,tailwind,typescript,vscode&perline=12)](https://skillicons.dev)
 
 # 🍁 My Github Stats:
 
