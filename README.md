@@ -50,6 +50,8 @@
 
 ![](https://github-stats-alpha.vercel.app/api?username=BikramMondal5&cc=141321&tc=A9FEF7&ic=F8D847&bc=fff "profile")
 
+![](https://github-readme-stats.shion.dev/api?username=BikramMondal5&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BikramMondal5&theme=dark&hide_border=false)<br/>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramMondal5&theme=radical)
