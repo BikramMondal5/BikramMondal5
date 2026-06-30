@@ -56,8 +56,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BikramMondal5&theme=radical)
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BikramMondal5&layout=compact&theme=highcontrast" />
-
 ## 🏆 GitHub Trophies
 <p align="left"><img src="https://github-trophies.vercel.app/?username=BikramMondal5&theme=radical" alt="BikramMondal5" />
 </p>
