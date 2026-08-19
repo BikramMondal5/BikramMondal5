@@ -38,7 +38,7 @@
 <p align="left">
 <a href="https://instagram.com/code_snippets5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bikram_mondal37" height="40" width="40" /></a>
 <a href="https://kaggle.com/BikramMondal5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="___bikram37___" height="40" width="40" /></a>
-<a href="https://leetcode.com/u/bikrammondal5" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="x.com" height="40" width="40" /></a> 
+<a href="https://leetcode.com/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="x.com" height="40" width="40" /></a> 
 <a href="https://www.linkedin.com/in/bikram-mondal-a2bb18343" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Bikram Mondal" height="40" width="40" /></a>
 <a href="https://x.com/CSnippets62428" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/main/src/images/icons/Social/twitter.svg" alt="x.com" height="40" width="40" /></a>  
 </p>
