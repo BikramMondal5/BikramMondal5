@@ -44,7 +44,7 @@
 </p>
 
 # 💻 My Tech Stack and Language:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,docker,express,figma,flask,gcp,git,github,html,js,kali,linux,mongodb,nextjs,nodejs,opencv,postman,python,r,react,sklearn,supabase,tailwind,typescript,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,aws,bash,bootstrap,c,css,docker,express,flask,gcp,git,github,html,js,linux,mongodb,nextjs,nodejs,postman,python,r,react,sklearn,supabase,tailwind,typescript&perline=12)](https://skillicons.dev)
 
 # 🍁 My Github Stats:
 
